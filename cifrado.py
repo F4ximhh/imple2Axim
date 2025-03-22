@@ -1,6 +1,6 @@
 texto=input("Tu texto: ")
 if texto== texto.upper():
-    abc="ABCDEFGHIJKLMNOPQRSTVXYZ"
+    abc="ABCDEFGHIJKLMNOPQRSTUVWXYZ"
 else:
     abc="abcdefghijklmnopqrstuvwxyz"
 k=int(input("Valor de desplazamiento "))
